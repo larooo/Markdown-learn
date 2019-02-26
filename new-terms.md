@@ -8,3 +8,7 @@
 + git checkout `branch-name`, to switch to other branch
 + git checkout *-b* `branch-name`,create a new branch an switch to this branch in one command
 + git branch *-d* `ranch-name`, delete the branch
+***
+![alt text](https://media.cheatography.com/storage/thumb/davechild_linux-command-line.750.jpg?last=1463102294)
+***
+[download libre office  **_office packet for free_**](https://www.libreoffice.org/download/download/) 
