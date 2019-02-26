@@ -9,7 +9,7 @@
 + git checkout *-b* `branch-name`,create a new branch an switch to this branch in one command
 + git branch *-d* `ranch-name`, delete the branch
 ***
- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+ [emoji-cheat-sheet :grimacing:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ***
 # Linux Commands list![alt text](https://media.cheatography.com/storage/thumb/davechild_linux-command-line.750.jpg?last=1463102294)
 ***
