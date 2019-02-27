@@ -9,11 +9,7 @@
 + git checkout *-b* `branch-name`,create a new branch an switch to this branch in one command
 + git branch *-d* `ranch-name`, delete the branch
 ***
-**branches :** working in team , change your code seperate from master , expermint , debugging , new feature
-a branch is apointer to a commit , lightweight we can run 250 branches on the same time, dont be afraid to branch
-move forward with every commit 
-***
-merge conflicts : change the code on the same line 
+**branchaaaaacode on the same line 
 ***
  [emoji-cheat-sheet :grimacing: :relieved:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ***
@@ -25,6 +21,6 @@ merge conflicts : change the code on the same line
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-| banana pie | chocolatecake with cookies and capuchino | sweets always sweets | what about an ice-cream on sumer time |
+| banana pie | chocolatecake with cookies and capuchino | sweets always sweets | what about an ice-cream on sumer time | and more |
 | zebra stripes | are neat      |    $1 |
 | col 4 is    | **i don´t know**  | $ 0    |
