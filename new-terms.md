@@ -25,6 +25,6 @@ merge conflicts : change the code on the same line
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-| perla | perla | perla |
+| banana pie | chocolatecake with cookies and capuchino | sweets always sweets | what about an ice-cream on sumer time |
 | zebra stripes | are neat      |    $1 |
 | col 4 is    | **i don´t know**  | $ 0    |
