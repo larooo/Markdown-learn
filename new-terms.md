@@ -9,6 +9,12 @@
 + git checkout *-b* `branch-name`,create a new branch an switch to this branch in one command
 + git branch *-d* `ranch-name`, delete the branch
 ***
+**branches :** working in team , change your code seperate from master , expermint , debugging , new feature
+a branch is apointer to a commit , lightweight we can run 250 branches on the same time, dont be afraid to branch
+move forward with every commit 
+***
+merge conflicts : change the code on the same line 
+***
  [emoji-cheat-sheet :grimacing: :relieved:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ***
 # Linux Commands list![alt text](https://media.cheatography.com/storage/thumb/davechild_linux-command-line.750.jpg?last=1463102294)
