@@ -1,9 +1,9 @@
 # **git commands :** :blush:
 + fork we make from a copy from the repo on our gitHub.
 + git clone we downloaded (a copy) from gitHub localy in git
-+ git init Initialize the local directory as a Git repository.
-+ git add Adds the files in the local repository and stages them for commit
-+ git commit -m "First commit" Commits the tracked changes and prepares them to be pushed to a remote repository. To remove this commit and modify the file
++ git init ,Initialize the local directory as a Git repository.
++ git add ,Adds the files in the local repository and stages them for commit
++ git commit -m "First commit" ,Commits the tracked changes and prepares them to be pushed to a remote repository. To remove this commit and modify the file
 + git remote add origin remote repository URL,Sets the new remote, In Terminal, add the URL for the remote repository where your local repository will be pushed.
 + git push origin master, Pushes the changes in your local repository up to the remote repository you specified as the origin
 + git branch `branch-name`, creat a new branch
