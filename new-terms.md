@@ -1,5 +1,5 @@
 # **git commands :** :blush:
-+ fork we make from a copy from the repo on our gitHub.
++ fork we mak a copy from the repo on our gitHub.
 + git clone we downloaded (a copy) from gitHub localy in git
 + git init ,Initialize the local directory as a Git repository.
 + git add ,Adds the files in the local repository and stages them for commit
